@@ -1,5 +1,4 @@
-<img width="1679" height="960" alt="Frame 33" src="https://github.com/user-attachments/assets/aebd2e76-4329-473d-9edf-74544768557f" /># 📝 PHP Blog System  
-Practical Workshop for Students
+# 📝 PHP Blog System  
 
 ## Overview
 
