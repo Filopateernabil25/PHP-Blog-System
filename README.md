@@ -7,7 +7,7 @@ The project is designed as a practical workshop that helps students understand r
 
 Through this project, students learn how to design databases, perform CRUD operations, manage content through an admin dashboard, handle file uploads, and build a responsive frontend interface.
 
-<img width="1679" height="960" alt="Frame 33" src="https://github.com/user-attachments/assets/d13957ef-207a-4956-a406-67c3b94e78fe" />
+<img width="1679" height="960" alt="Frame 33 (1)" src="https://github.com/user-attachments/assets/8655d7e8-2931-46cc-b27e-00cf7281d73a" />
 
 ## Features
 
